@@ -8,9 +8,8 @@ MSc in Econometrics & Financial Technology | Risk Analyst | Data Enthusiast
 - 💻 Tools: Python, EViews, Power BI  
 
 ## 📌 Projects
-- **FRTB SA Model** – Capital charge calculation for equity derivatives  
-- **Stock Analysis Dashboard** – Excel & Power BI  
-
+- **FRTB SA Model** – Capital charge calculation for equity derivatives
+  
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 [GitHub](https://github.com/anitta-varghese)
