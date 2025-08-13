@@ -11,6 +11,6 @@ MSc in Econometrics & Financial Technology | Risk Analyst | Data Enthusiast
 - **FRTB SA Model** – Capital charge calculation for equity derivatives
   
 ## 📫 Connect with me
-- LinkedIn - linkedin.com/in/anitta-varghese-030b41277
+- LinkedIn - www.linkedin.com/in/anitta-varghese-030b41277
 - Email - anittavarghese3008@gmail.com
 
